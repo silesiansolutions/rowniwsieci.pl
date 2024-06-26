@@ -9,10 +9,10 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.mjs
     siteTitle: `Równi w Sieci`,
-    siteTitleAlt: `Równi w Sieci - organizacja non-profit przeciwdziałająca wykluczeniu cyfrowemu`,
-    siteHeadline: `Równi w Sieci Hadline`,
+    siteTitleAlt: `Równi w Sieci - Organizacja Non-Profit przeciwdziałająca wykluczeniu cyfrowemu`,
+    siteHeadline: `Równi w Sieci - Organizacja Non-Profit`,
     siteUrl: `https://rowniwsieci.pl`,
-    siteDescription: `Równi w Sieci to organizacja non-profit, której celem jest przeciwdziałanie wykluczeniu cyfrowemu. Choć jesteśmy jeszcze na etapie budowania naszej struktury i formalizacji działalności, już teraz zapraszamy wszystkich chętnych do dołączenia do naszej inicjatywy.`,
+    siteDescription: `Równi w Sieci to Organizacja Non-Profit, której celem jest przeciwdziałanie wykluczeniu cyfrowemu. Choć jesteśmy jeszcze na etapie budowania naszej struktury i formalizacji działalności, już teraz zapraszamy wszystkich chętnych do dołączenia do naszej inicjatywy.`,
     siteImage: `/logo.webp`,
     siteLanguage: `pl`,
     author: `Silesian Solutions`,
